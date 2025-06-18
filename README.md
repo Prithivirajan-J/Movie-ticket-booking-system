@@ -24,3 +24,8 @@ This is a simple web-based movie ticket booking system built using Streamlit and
 
 3. Install the required package:
    pip install -r requirements.txt
+
+![App Screenshot](assets/outputimage1.png)
+![App Screenshot](assets/outputimage2.png)
+
+
